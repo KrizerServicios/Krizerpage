@@ -1,2 +1,0 @@
-# Krizerpage
-Pagina Web
